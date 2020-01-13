@@ -1,4 +1,4 @@
-# ieee-keywords
+# IEEE Keywords
 
 Here is a list of all IEEE Computer Society Keywords:
 
